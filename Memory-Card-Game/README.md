@@ -1,16 +1,41 @@
-# React + Vite
+# Memory Card Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based memory card game. Flip cards, find matches, and test your memory!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## React Compiler
+- **React**
+- **Vite** (for fast bundling and dev server)
+- **Git and Github** (version control and deployment)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Folder Structure 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+---
+
+## Current Progress
+
+- Project initialized with React and Vite 
+- Boilerplace cleaned
+- Folder structure organized
+
+## Goals
+
+This project is part of the Odin Project curriculum. I am also using it as a porfolio showcase for junior web developer job applications. It focuses on the following:
+
+- Component architecture
+- State management
+- Responsive design and clean UI
+- GitHub storytelling and commit discipline
+
+## Author
+
+Built by OshWebs23 
+
+
+
