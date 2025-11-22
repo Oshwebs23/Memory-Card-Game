@@ -33,6 +33,13 @@ This project is part of the Odin Project curriculum. I am also using it as a por
 - Responsive design and clean UI
 - GitHub storytelling and commit discipline
 
+## Development LOg 
+13 Nov 2025
+-Scaffolded Header.jsx component
+-Debugged initial render issues (import/export, JSX structure)
+-Confirmed successful rendering of header in browser
+-Commit pushed. 
+
 ## Author
 
 Built by OshWebs23 
