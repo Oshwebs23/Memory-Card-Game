@@ -1,6 +1,6 @@
 # Memory Card Game (React & Van Gogh Edition) (working progress)
 
-Welcome to the **Memory Card Game**, a fun, interactive browser game built with React, featuring gorgeous Van Gogh paintings as the cards! Challenge your memory while admiring the artistry of Vincent van Gogh.
+Welcome to the **Memory Card Game**, a fun, interactive browser game built with React, featuring Van Gogh paintings as the cards! Challenge your memory!
 
 ## Features
 
